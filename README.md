@@ -1,2 +1,2 @@
 # scratch
-scratch space
+scratch space - temporary space for demonstrations
